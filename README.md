@@ -1,4 +1,3 @@
-Simple CRUD app using Vuejs, Vue-router,localStorage
 
 ## Project setup
 ```
